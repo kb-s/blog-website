@@ -11,7 +11,7 @@ function Login() {
             <input type="password" className="loginInput" placeholder="Enter Your password..."/>
             <button className="loginButton">Login</button>
         </form>
-        <button className="registerButton">Register</button>
+        <button className="loginRegisterButton">Register</button>
     </div>
   )
 }
