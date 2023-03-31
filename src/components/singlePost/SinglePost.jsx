@@ -17,12 +17,12 @@ function SinglePost() {
           </div>
         </h1>
         <div className="singlePostInfo">
-          <span>
+          <span className="singlePostAuthor">
             Author: <b>Bhatt</b>
           </span>
           <span className="singlePostDate">1 hour ago</span>
         </div>
-        <p>
+        <p className="singlePostDesc">
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iste error
           quibusdam ipsa quis quidem doloribus eos, dolore ea iusto impedit!
           Voluptatum necessitatibus eum beatae, adipisci voluptas a odit modi
